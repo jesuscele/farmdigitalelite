@@ -1,0 +1,5 @@
+.gradle/
+**/build/
+local.properties
+temp-gradle-new2/
+gradle-*.zip
